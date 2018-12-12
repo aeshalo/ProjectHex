@@ -1,0 +1,5 @@
+This is a mission template. this format must be followed for the mission to execute correctly
+StackPosition Name TaskClass Arguments(in order)
+------------------------------------------
+arm1 ArmTask [connection string here]
+drop1 DropTask 1
